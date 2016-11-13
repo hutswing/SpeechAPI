@@ -2,8 +2,8 @@
 <resources>
     <!-- From: file:/C:/Users/GunWoo/AndroidStudioProjects/SpeechToText3/app/src/main/res/values/colors.xml -->
     <eat-comment/>
-    <color name="bg_gradient_end">#6b394c</color>
-    <color name="bg_gradient_start">#31244e</color>
+    <color name="bg_gradient_end">#AFEEEE</color>
+    <color name="bg_gradient_start">#00CED1</color>
     <color name="white">#ffffff</color>
     <!-- From: file:/C:/Users/GunWoo/AndroidStudioProjects/SpeechToText3/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
